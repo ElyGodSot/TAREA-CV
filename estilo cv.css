@@ -1,0 +1,25 @@
+main{
+
+    display: flex
+}
+
+
+
+.seccion{
+    color: rgb(182, 54, 133);
+    background-color: #fae632e0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 5px;
+}
+#laboral{
+    
+    background-image: url(https://th.bing.com/th/id/R.c41daf41cc7a6ed0c6f44f250e8991d0?rik=nlkeEquw5YuhhQ&riu=http%3a%2f%2fwww.ntrguadalajara.com%2fevidimg%2f2016-08-30_02-08-40___5231.jpg&ehk=JVoq9Q3BriJFNfmpV%2fl1XqNgCndbyeHP4KfcoVYnBc4%3d&risl=&pid=ImgRaw&r=0);
+    background-size:cover;
+}
+h2{
+    color: #b65151 !important;
+    border: dashed 2px black
+}
