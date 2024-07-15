@@ -3,16 +3,25 @@ main{
     display: flex
 }
 
+header{
 
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    font-size: 30px;
+    
+    
+}
 
 .seccion{
     color: rgb(182, 54, 133);
     background-color: #fae632e0;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
     font-size: large;
     border: 1px solid black;
     margin: 10px;
-    padding: 5px;
+    padding: 10px 50px 10px 50px;
+    display:inline-block
+    
 }
 #laboral{
     
@@ -20,6 +29,19 @@ main{
     background-size:cover;
 }
 h2{
-    color: #b65151 !important;
+
+    color: #f03211 !important;
     border: dashed 2px black
 }
+div{
+
+
+  background-color: #f03211;
+  width: 10 px;
+  height: 100px;
+  margin: 0 auto;
+  display:inline-block
+
+}
+
+
